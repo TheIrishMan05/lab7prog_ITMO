@@ -1,0 +1,19 @@
+help
+add
+P3130
+60
+30
+25
+2
+4
+SECOND
+Mashkin Grigory
+13/02/2004 13:05:45
+RED
+132
+43
+Vladivostok
+show
+info
+execute_script C:\study\labs\Programming\lab7\lab7Client\scriptRecursion2.txt
+

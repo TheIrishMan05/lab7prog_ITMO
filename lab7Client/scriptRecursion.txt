@@ -1,0 +1,2 @@
+help
+execute_script C:\study\labs\Programming\Lab7\lab7Client\scriptAdd.txt
